@@ -25,3 +25,8 @@ ros2 run voice_interaction dog_behavior_server
 ```
 ros2 run voice_interaction interaction_client {play, treat, pat}
 ```
+
+
+# YT
+### `voice_command` and `voice_interaction`
+https://youtu.be/XCqsedKEtdc
