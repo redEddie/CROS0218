@@ -24,7 +24,7 @@ class VoiceCommandClient(Node):
 def main(args=None):
     if len(sys.argv) != 2:
         print("Usage: voice_command_client <command>")
-        print("Example: voice_command_client good")
+        print("Example: voice_command_client sit/stand/walk")
         sys.exit(1)
 
     # command = sys.argv[1]
