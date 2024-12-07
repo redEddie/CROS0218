@@ -20,8 +20,8 @@ setup(
     tests_require=["pytest"],
     entry_points={
         "console_scripts": [
-            "voice_server = voice_command.voice_server:main",
-            "voice_client = voice_command.voice_client:main",
+            "dog_response_server = voice_command.voice_server:main",
+            "voice_command_client = voice_command.voice_client:main",
         ],
     },
     python_requires=">=3.6",  # Python 버전 요구사항 추가
