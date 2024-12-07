@@ -1,0 +1,9 @@
+docker run -it --gpus all \
+  --network=host \
+  --env="DISPLAY" \
+  --env="QT_X11_NO_MITSHM=1" \
+  --volume="/tmp/.X11-unix:/tmp/.X11-unix:rw" \
+  --volume="C:/Users/cpscc/ros2_ws:/root/ros2_ws" \
+  -w="/root" \
+  osrf/ros:foxy-desktop \
+  /bin/bash
