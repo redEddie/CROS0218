@@ -3,7 +3,7 @@
 
 목표 : 토픽, 서비스, 액션 모두 사용하기
 
-서비스 : `voice_command`, `voice_interaction`
+서비스 : `voice_command`, `voice_interaction`, `emergency`
 
 ---
 
@@ -30,3 +30,6 @@ ros2 run voice_interaction interaction_client {play, treat, pat}
 # YT
 ### `voice_command` and `voice_interaction`
 https://youtu.be/XCqsedKEtdc
+
+### `emergency`
+https://youtu.be/YTqCcXQBMKQ?si=SwoC_WASD-VxcCP9
