@@ -32,4 +32,7 @@ ros2 run voice_interaction interaction_client {play, treat, pat}
 https://youtu.be/XCqsedKEtdc
 
 ### `emergency`
-https://youtu.be/YTqCcXQBMKQ?si=SwoC_WASD-VxcCP9
+https://youtu.be/YTqCcXQBMKQ
+
+### `navigation`
+https://youtu.be/HOMziVH-KMY
